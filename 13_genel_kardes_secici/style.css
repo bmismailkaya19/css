@@ -1,0 +1,12 @@
+h3 ~ p{     
+    color: red;
+}
+/*   ~ işareti Alt Gr + Ü ile yapılır.  */
+
+ul li.list2 + li{
+    color: rgb(222, 55, 55);
+}
+
+ul li.list2 ~ li{
+    color: rgb(23, 207, 100);
+}

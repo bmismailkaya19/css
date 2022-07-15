@@ -1,0 +1,7 @@
+div{
+    background-color: deeppink;
+}
+.top::after{
+    content:' sonraki yazı' ;
+    color: #b1ff14;
+}

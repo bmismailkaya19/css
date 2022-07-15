@@ -1,0 +1,14 @@
+input:enabled{
+    background-color: yellowgreen;
+}
+input:disabled{
+    background-color: red;
+}
+/*
+:enable => etkinleştirme
+:disenable => devredışı bırakma
+:optional => istege baglı
+:required => zorunlu
+:read-only => sadece oku
+:read-write => oku ve yaz
+*/

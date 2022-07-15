@@ -1,0 +1,6 @@
+input:in-range{
+    background-color: bisque;
+}
+input:out-of-range{
+    background-color: darkorange;
+}

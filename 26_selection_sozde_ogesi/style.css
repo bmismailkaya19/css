@@ -1,0 +1,8 @@
+::selection{
+    background-color: deeppink;
+    color: white;
+}
+p::selection{
+    background-color: darkgrey;
+    color: white;
+}

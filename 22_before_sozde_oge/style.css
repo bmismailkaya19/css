@@ -1,0 +1,15 @@
+div{
+    color: darkorange;
+    background-color: rgb(17, 105, 177);
+}
+.ipek::before{
+    content: 'yellow ';
+    color: rgb(38, 15, 237);
+    background-color: chartreuse;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.top::after{
+    content: 'ipek bir prensestir';
+    background-color: deeppink;
+    color: rgb(141, 233, 21);
+}

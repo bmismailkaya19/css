@@ -1,0 +1,14 @@
+h3 + p {
+    color: coral;
+}
+
+div + p{
+    color: green;
+}
+
+div + p span{
+    color: chartreuse;
+}
+.box + p span{
+    color: blue;
+}

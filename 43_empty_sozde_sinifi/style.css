@@ -1,0 +1,9 @@
+li:empty{
+    display: none;
+}
+#total:empty{
+    display: none;
+}
+#total:not(:empty) + .loading-test{
+    display: none;
+}

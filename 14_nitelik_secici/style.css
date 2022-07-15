@@ -1,0 +1,9 @@
+abbr[title]{
+    color: rgb(143, 28, 210);
+}
+img[alt]{
+    background-color: chartreuse;
+}
+img[height]{
+    background-color: darkred;
+}

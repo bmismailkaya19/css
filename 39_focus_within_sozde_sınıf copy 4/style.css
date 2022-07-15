@@ -1,0 +1,16 @@
+button:focus{
+    background-color: darkgoldenrod;
+}
+input:focus{
+    color: red;
+    border-color: red;
+}
+a:focus{
+    background-color: blue;
+}
+li:focus{
+    background-color: cornsilk;
+}
+ul:focus-within{
+    background-color: plum;
+}

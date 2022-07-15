@@ -1,0 +1,10 @@
+ul li:last-child{
+    background-color: deeppink;
+}
+
+ul:last-child{
+    background-color: dodgerblue;
+}
+p:last-child{
+    background-color: yellowgreen;
+}

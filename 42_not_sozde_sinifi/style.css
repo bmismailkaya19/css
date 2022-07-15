@@ -1,0 +1,6 @@
+abbr[title]{
+    background-color: chartreuse;
+}
+abbr:not([title]):not(.test){
+    background-color: darkmagenta;
+}

@@ -1,0 +1,13 @@
+
+input[type="radio"]:checked +span {
+    background-color: deeppink;
+}
+.button::before {
+    content: attr(data-hidden) ;
+}
+.chechbox:checked + .button::before {
+    content: attr(data-show);
+}
+:focus{
+    outline: none;
+}

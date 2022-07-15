@@ -1,0 +1,18 @@
+div{
+    color: darkorange;
+    background-color: rgb(17, 105, 177);
+}
+.ipek::before{
+    content: attr(data-oncesi);
+    color: rgb(38, 15, 237);
+    background-color: chartreuse;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.top::after{
+    content:attr(class);
+    background-color: deeppink;
+    color: rgb(141, 233, 21);
+}
+a[target="_blank"]::after{
+    content: '('attr(href)')';
+}

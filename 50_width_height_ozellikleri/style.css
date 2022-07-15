@@ -1,0 +1,13 @@
+/*span{
+    width: 40px;
+    height: 40px;
+    background-color: teal;
+}*/
+html,body{
+    height: 100%;
+}
+div{
+    width: 50%;
+    height: 50%;
+    background-color: teal;
+}

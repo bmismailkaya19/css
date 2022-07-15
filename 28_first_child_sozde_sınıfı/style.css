@@ -1,0 +1,10 @@
+.list li:first-child{
+    background-color: darkorange;
+}
+div ul:first-child{
+    background-color: darkgoldenrod;
+}
+
+div:first-child{
+    background-color: darkgreen;
+}
